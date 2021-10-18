@@ -1,0 +1,100 @@
+inurl:/admin site:in
+intext:"password" inurl:/admin site:in
+inurl:/panel/index.php
+intitle:"administrator" site:in
+inurl:/panel intext:"Parent Directory"
+intitle:"login" inurl:/administrator site:uk
+inurl:/panel intext:"Parent Directory" intitle:"/image site:in 
+intitle:"administrator" inurl:/login.php site:in
+intext:"username" intitle:"login"
+inurl:/admin/logout.php
+inurl:/admin/images intext:"Parent Directory" site:in
+site:uk intext:"admin/images" intitle:"index of"
+intext:"banner" inurl:/admin
+panel/login.php
+inurl:/login site:in
+intext:"logo" inurl:/panel
+"index of" admin/upload
+site:in /admin/upload
+/adminpanel/login.php intext"username"
+inurl:/panel/login.html
+inurl:/admin/login.html
+inurl:/administrator/login.html
+inurl:/adminpanel/login.html
+inurl:/login/login.html
+inurl:/admin/add.php
+intext:"index of" inurl:/admin/images
+site:in & site:uk inurl:/admin/index.php
+intitle:"login" /login.php
+intext:"Parent Directory" inurl:/admin/upload
+site:id /admin/uploads
+site:id /admin/ upload
+site:uk /admin/uploads
+site:uk /admin/upload
+/admin
+/panel/
+inurl:/login.aspx site:in
+intext:"members" inurl:/login
+inurl:/admin/dashboard.php
+intext"register" intitle:"login"
+inurl:/admin/images/files
+inurl:/admin/uploads/images
+inurl:/index.php intext:"username" intitle:"administrator"
+inurl:/index.php intext:"username" intitle:"login"
+inurl:/index.php intext:"password" intitle:"administrator"
+inurl:/index.php intext:"password" intitle:"login" 
+inurl:/index.php intext:"username" intitle:"panel"
+inurl:/login.php intext:"username" intitle:"panel"
+inurl:/login.php intext:"password" intitle:"panel" 
+inurl:/login.php intext:"username" intitle:"login"  
+inurl:/login.php intext:"password" intitle:"login" 
+inurl:/login.php intext:"user" site:in
+/login.html intitle:"admin"
+/login.html intitle:"admin" site:in
+/login.html intitle:"admin" site:id
+/login.html intitle:"admin" site:uk
+/login.html intitle:"admin" site:za
+/loin.html intitle:"admin" site:i/login.html intitle:"admin" site:pl
+intext:"login"
+intext:"please login" site:in
+intext:"login succesfuly" site:in
+intext:"login succesfuly" site:id
+intext:"login succesfuly" site:za
+intext:"login succesfuly" site:inintext:"login succesfuly" site:pl
+inurl:/admin/index.htm site:in
+intitle:"dashboard" inurl:/dashboard.php
+ intitle:"dashboard" inurl:/daintitle:"dashboard" inurl:/dash.php
+inurl:/admin/gallery.php
+site:in /login
+site:id /login
+site:in /admin/add_gallery.php
+site:in /admin/addgallery.php
+site:in /banner.php
+site:in /admin/banner.php
+inurl:/login/login/login/login.php
+inurl:/home/admin/index.php
+inurl:/blog/admin/index.php
+inurl:/admin/admin.php
+inurl:/admin/.php
+intitle:"home" inurl:/admin
+intext:"welcome to administrator"
+intext:"welcome" inurl:/admin
+intext:"selamat datang di panel"
+"welcome to dashboard" inurl:/dash.php
+inurl:/home.php "dashboard" site:in
+inurl:/panel/home.php
+inurl:/admin/home.php
+inurl:/administrator/home.php
+inurl:/admin/home1.php
+intext":news" /admin/add.php
+intext:"add news" inurl:/addnews.php
+inurl:/tambah-berita.php
+inurl:/tambah.php intext:"tambah berita"
+/gallery-del.php site:in
+site:in /admin/gallery.php
+/addgallery.php
+/admin/gallery-add.php
+intitle:"dashboard" inurl:/admin
+intitle:"dashboard" inurl:/login
+intitle:"dashboard" inurl:/administrator
+intitle:"dashboard" inurl:/admin site:in
