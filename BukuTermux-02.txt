@@ -1,0 +1,320 @@
+ ____        _            _____
+| __ ) _   _| | ___   _  |_   _|__ _ __ _ __ ___  _   ___  __
+|  _ \| | | | |/ / | | |   | |/ _ \ '__| '_ ` _ \| | | \ \/ /
+| |_) | |_| |   <| |_| |   | |  __/ |  | | | | | | |_| |>  <
+|____/ \__,_|_|\_\\__,_|   |_|\___|_|  |_| |_| |_|\__,_/_/\_\
+
+
+=====================================================
+  Author : Mr Virus Spm
+  YouTube: MR VIRUS SPM
+  Team   : Mafia Teknologi Indonesia
+=====================================================
+
+   Assalamu'alaikum warahmatullahi wabarakatu perkenalkan nama
+   saya Mr Virus Spm Kali ini saya telah menciptakan Buku Termux
+
+================================================================
+
+1. Virus link
+
+   virus link ini berfungsi untuk menghapus semua penyimpanan
+   file atau apapun itu, biasanya di gunakan untuk kejahatan
+   karena ini adalah virus, untuk script di bawah ini
+   
+   pkg update && pkg upgrade
+   pkg install figlet
+   pkg install git
+   git clone https://github.com/MrVirusSpm-07/link-virus
+   cd link-virus
+   sh download.sh
+================================================================
+
+2. Virus Vbug
+
+   virus vbug ini adalah aplikasi virus yg fungsinya sama 
+   seperti
+   virus link namun jika vbug ini langsung berbentuk aplikasi
+   
+   pkg update && pkg upgrade
+   pkg install figlet
+   pkg install python
+   pkg install git
+   git clone https://github.com/Gameye98/vbug
+   cd vbug
+   python2 vbug.py
+================================================================
+
+3. Virus Malicious
+
+   virus malicious ini sama seperti virus vbug namun ini lebih
+   banyak aplikasi virus nya ibarat kata ini kakak dari vbug
+
+   termux-setup-storage
+   cd /sdcard
+   pkg install git 
+   pkg install python2
+   pkg install ruby 
+   gem install lolcat 
+   git clone https://github.com/TheSploit/Sploit-Malicious 
+   cd Sploit-Malicious 
+   pip2 install -r requirements.txt
+   python2 malicious.py
+
+================================================================
+ 
+4. Pelater
+   
+   pelater ini adalah script untuk pemula di dalamnya ada 3 menu
+   ada untuk menampilkan tombol kanan kiri, ada yg merubah
+   tampilan termux, ada pendukung work
+   
+   apt update && apt upgrade
+   apt install figlet
+   apt install git
+   git clone https://github.com/MrVirusSpm-07/pelater
+   cd pelater
+   sh pemula.sh
+   
+================================================================
+
+5. Virtex By Mr Virus Spm
+
+   virtex ini buatan saya yg bisa anda racik dengan copy paste
+   
+   pkg update && pkg upgrade
+   pkg install figlet
+   pkg install git
+   git clone https://github.com/MrVirusSpm-07/virtex
+   cd virtex
+   sh virtex-x.sh
+ 
+================================================================
+   
+6. Virtex X
+    
+    gak tau ini buatan siapa intinya gw liat ini script virtex
+    
+    CARA INSTALL NYA MELALUI TERMUX
+
+    pkg update -y
+    pkg upgrade -y
+    pkg install git -y
+    pkg install mc
+    pkg install python -y
+    git clone https://github.com/MR-X-Junior/Virtex
+    termux-setup-storage
+    cd Virtex
+    ls
+    python3 Virtex.py
+   
+    Jika sudah selesai mendownload file Virtex anda bisa 
+    memindahkan file tersebut menggunakan mc
+
+    Atau anda juga bisa memindahkan nya dengan cara mengetik
+
+    mv nama virtex.txt /sdcard
+
+    CONTOHNYA:
+
+    mv v12.txt /sdcard
+
+================================================================
+
+7. CCHEK
+
+   script termux cchek ini adalah script termux hack cctv publik
+   yang bisa anda gunakan untuk mengakses cctv
+   
+   pkg update && pkg upgrade
+   pkg install figlet
+   pkg install git
+   git clone https://github.com/MrVirusSpm-07/cchek
+   cd cchek
+   sh cchek.sh
+   
+================================================================
+   
+8. Spam call by MR VIRUS SPM
+   
+   pkg update && pkg upgrade
+   pkg install toilet
+   pkg install ruby
+   gem install lolcat
+   pkg install figlet
+   pkg install git
+   git clone https://github.com/MrVirusSpm-07/call-01
+   cd call-01
+   bash callv1.sh
+   
+================================================================
+
+10. Trol project
+
+    troll project adalah script termux spam call buatan hack bae
+
+    pkg update && pkg upgrade
+    pkg install figlet
+    pkg install bash
+    git clone https://github.com/zlucifer/troll_project
+    cd troll_project
+    sh trol.sh
+    
+================================================================
+    
+11. SCRIPT COD-TEM
+    
+    cod-tem adalah script termux yg bisa anda gunakan untuk
+    membuat script tanpa harus mengoding
+    
+    pkg update && pkg upgrade
+    pkg install python
+    pkg install python2
+    pkg install figlet
+    pkg install ruby
+    pkg install toilet
+    gem install lolcat
+    pkg install bash
+    pkg install git
+    git clone https://github.com/MrVirusSpm-07/cod-tem
+    cd cod-tem
+    sh buat-sekarang.sh
+    
+================================================================
+    
+12. Tools-king
+
+    tools-king adalah script termux terbaru tetapi ini bukan
+    tools installer karena ini hanya menampilkan script
+    bukan menginstal nya
+    
+    pkg update && pkg upgrade
+    pkg install git
+    pkg install figlet
+    git clone https://github.com/MrVirusSpm-07/tools-king
+    cd tools-king
+    sh king2.sh
+    
+================================================================
+    
+13. spam call sms by Ridwan
+
+     pkg install python -y
+     pkg install python2 -y
+     pkg install git -y
+     git clone https://github.com/ridwanszz15/spamcallsms
+     cd spamcallsms
+     pip2 install requests
+     python2 main.py
+     
+================================================================
+     
+14. Spam call by mr robot
+
+    pkg update && pkg upgrade
+    pkg install figlet
+    pip2 install mecanizhe
+    pip2 install requests
+    pkg install git
+    git clone https://github.com/MrRobotFramework/BrutalSpamV2
+    cd Brutal SamV2
+    python call.py
+    
+================================================================
+    
+15. Call Gay
+
+    call gay adalah script termux spam call buatan gw sendiri
+    
+    pkg update && pkg upgrade
+    pkg install figlet
+    pkg install python
+    pkg install git
+    git clone https://github.com/MrVirusSpm-07/calgay
+    cd calgay
+    sh calgay.sh
+    
+================================================================
+ 
+16. call say
+
+    cal say script termux spam call by mr virus spm
+    
+    pkg update && pkg upgrade
+    pkg install python
+    pkg install figlet
+    pkg install toilet
+    pkg install curl
+    pkg install ruby
+    gem install lolcat
+    pkg install git
+    git clone https://github.com/MrVirusSpm-07/call2
+    cd call2
+    pip2 install requests
+    sh calsay.sh
+    
+================================================================
+    
+17. Tools Work Maret 2021
+
+    ini adalah script termux work pada waktu maret tapi mungkin
+    masih work di bulan ini
+
+    pkg update && pkg upgrade
+    pkg install toilet
+    pkg install git
+    git clone https://github.com/MrVirusSpm-07/work-maret-2021
+    cd work-maret-2021
+    sh mrviruswork.sh
+    
+================================================================
+
+18. Juz Amma
+
+     juz amma adalah script termux yg di dalamnya terdapat
+    bacaan surah-surah pendek dan artinya
+
+
+    pkg update && pkg upgrade
+    pkg install figlet
+    pkg install git
+    git clone https://github.com/MrVirusSpm-07/juz-amma
+    cd juz-amma
+    sh amma.sh
+    
+================================================================
+
+19. DDOS WD
+
+    ddos WD script termux ddos berfungsi menyerang website
+    dan script ini sudah terjamin work
+
+    apt update && apt upgrade
+    apt install git toilet
+    apt install python
+    apt install python2
+    git clone https://github.com/banghyuu/ddosWD
+    cd ddosWD
+    sh Ddos.sh
+
+================================================================
+
+20. Hack Cam
+   
+    hack cam adalah script termux yg mampu meretas camera orang
+    tanpa di ketahui
+    
+    pkg update && pkg upgrade
+    pkg install figlet
+    pkg install php
+    pkg install git
+    git clone https://github.com/banghyuu/kamera
+    cd kamera
+    sh gas.sh
+    
+    
+================================================================  
+    
+segitu saja dari saya jangan lupa subscribe cenel MR VIRUS SPM
+
+================================================================

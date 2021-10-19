@@ -1,0 +1,31 @@
+DORK :
+ 
+inurl:manager/server/php/ 
+inurl:/vendor/server/php/ 
+inurl:panelo/server/php/ 
+inurl:server/php/files/15/ 
+inurl:server/php/files/ ext:jpg 
+inurl:server/php/files15/ 
+inurl:panel/server/php/ 
+inurl:adm/server/php/
+inurl:/admin/server/php/ 
+inurl:/php/server/php/ 
+inurl:jquery_file_upload/server/php/ 
+inurl:uploads/server/php
+inurl:"assets/global/plugins/jquery-file-upload/"
+inurl:"assets/global/"
+inurl:"assets/global/plugins/"
+intext:"assets/global/plugins/jquery-file-upload/"
+ 
+ { KEMBANGKAN LAGI }
+ 
+Exploit: 
+server/php
+
+Csrf Online https://tools.garudatersakti72.id/tools/csrf/index.php
+
+ Live Target: https://www.nrru.ac.th/public/computer/admin/pages/Upload/
+
+Author : Andi Iman Hidayat
+             📧 jackjoker095@gmail.com
+Greetz : Makassar Xploit - Sulawesi Blackhat - Team ID Crew - All Team Indonesian Cyber
