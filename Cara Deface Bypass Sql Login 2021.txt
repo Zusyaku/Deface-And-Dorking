@@ -1,0 +1,14 @@
+https://www.magelang1337.com/2021/01/cara-deface-bypass-sql-login-2021.html
+
+inurl:/backend/login.php intext:"login"
+inurl:manager intitle:Admin Panel
+inurl:/admin2/ ext:php
+inurl:/admin/ ext:php
+inurl:/adminpanel/ext:php
+inurl:/admin_panel/
+inurl:/adminpanel/ intitle:manager
+inurl:/admin/ intitle:Admin Panel
+intext:manager intitle:Admin Login
+inurl:/admin/ intitle:Admin Panel site:id
+inurl:/adminpanel/ext:php site:.com
+inurl:/panel/ "login" site:.in
