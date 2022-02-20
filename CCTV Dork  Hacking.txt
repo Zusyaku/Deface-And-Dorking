@@ -1,0 +1,51 @@
+liveapplet
+
+inurl:indexframe.shtml
+
+inurl:”view/index.shtml”
+
+inurl:”view/indexFrame.shtml”
+
+liveapplet
+
+inurl:indexframe.shtml
+
+inurl:”view/index.shtml”
+
+inurl:”view/indexFrame.shtml”
+
+inurl:view/view.shtml
+
+inurl:/view/view.shtml?videos=
+
+inurl:ViewerFrame?Mode=
+
+inurl:ViewerFrame?Mode=Motion
+
+inurl:ViewerFrame?Mode=Refresh
+
+inurl:axis-cgi/jpg
+
+inurl:indexFrame.shtml Axis
+
+inurl:indexFrame.shtml “Axis Video Server”
+
+inurl:lvappl live webcams
+
+inurl:LvAppl intitle:liveapplet
+
+inurl:”MultiCameraFrame?Mode=Motion”
+
+inurl:/view:shtml
+
+inurl:/view/index.shtml
+
+inurl:view/indexframe.shtml
+
+inurl:view/view.shtml
+
+viewerframe?mode=
+
+inurl:”viewerframe?mode=motion”
+
+inurl:ViewerFrame?Mode=Refresh
